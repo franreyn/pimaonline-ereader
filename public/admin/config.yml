@@ -11,13 +11,15 @@ collections:
   - name: "page" # Used in routes, e.g., /admin/collections/blog
     label: "Page" # Used in the UI
     description: "These are the individual pages"
-    folder: "data/md/pages" # The path to the folder where the documents are stored
+    folder: "public/cache/pages" # The path to the folder where the documents are stored
     create: true # Allow users to create new documents in this collection
+    delete: false # Prevents users from deleting items in a collection 
     slug: "{{year}}-{{month}}-{{day}}-{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
     extension: json
     format: json
     fields: # The fields for each document, usually in front matter
       - {label: "Layout", name: "layout", widget: "hidden", default: "blog"}
       - {label: "Title", name: "title", widget: "string"}
+      - {label: "Author", name: "author", widget: "string"}
       - {label: "Publish Date", name: "date", widget: "datetime"}
       - {label: "Body", name: "body", widget: "markdown"}
