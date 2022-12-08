@@ -1,10 +1,44 @@
+import fs from 'fs'
+import matter from 'gray-matter'
+import reactMarkdown from 'react-markdown';
 import Head from "next/head";
 import { useState } from "react";
 import Script from "next/script";
+import { ReactMarkdown } from 'react-markdown/lib/react-markdown';
 
-export default function Home() {
+// const uri = "https://rickandmortyapi.com/api/character";
+// const uri = "https://api.github.com/repos/frankiejrey/pimaonline-ereader/contents/public/cache/pages?ref=main";
+
+export const getServerSideProps = async () => {
+  const filesInBlogs = fs.readdirSync('./content/');
+ 
+    // Get the front matter and slug (the filename without .md) of all files
+    const blogs = filesInBlogs.map((filename, index) => {
+      const file = fs.readFileSync(`./content/${filename}`, 'utf8')
+      const matterData = matter(file)
+  
+      return {
+        id: index + 1, 
+        ...matterData.data, // matterData.data contains front matter
+        slug: filename.slice(0, filename.indexOf('.')),
+        content: matterData.content
+      }
+    })
+
+    return {
+      props: {
+        blogs
+      }
+    }
+  
+
+}
+
+export default function Home({ blogs }) {
   const [isDarkMode, setIsDarkMode] = useState(false);
-  console.log(isDarkMode);
+  const [blogData, setBlogData] = useState(blogs)
+
+  console.log(blogData);
 
   return (
     <div className="max-w-full">
@@ -16,17 +50,13 @@ export default function Home() {
       <div className="">
         <header>
           <div id="navbar" className="flex justify-between p-4 bg-zinc-700">
-            <div>
-              <img src="https://via.placeholder.com/180x40"></img>
-            </div>
-            <button className="text-white" type="button" onClick={() => setIsDarkMode(!isDarkMode)}>
-              Light-Dark
-            </button>
+            <div><img src="https://via.placeholder.com/180x40"></img></div>
+            <button className="text-white" type="button" onClick={() => setIsDarkMode(!isDarkMode)}>Light-Dark</button>
           </div>
         </header>
 
         <main className="max-w-5xl mx-auto py-8">
-
+          {/* {blogData.map((q) => console.log(q))} */}
         </main>
       </div>
       <Script>
