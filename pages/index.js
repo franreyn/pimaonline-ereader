@@ -10,16 +10,15 @@ import { ReactMarkdown } from 'react-markdown/lib/react-markdown';
 // const uri = "https://api.github.com/repos/frankiejrey/pimaonline-ereader/contents/public/cache/pages?ref=main";
 
 export const getServerSideProps = async () => {
-  const filesInBlogs = fs.readdirSync('./content/');
+  const filesInBlogs = fs.readdirSync('./content/md/pages');
  
     // Get the front matter and slug (the filename without .md) of all files
     const blogs = filesInBlogs.map((filename, index) => {
-      const file = fs.readFileSync(`./content/${filename}`, 'utf8')
+      const file = fs.readFileSync(`./content/md/pages/${filename}`, 'utf8')
       const matterData = matter(file)
   
       return {
-        id: index + 1, 
-        ...matterData.data, // matterData.data contains front matter
+        ...matterData.data, 
         slug: filename.slice(0, filename.indexOf('.')),
         content: matterData.content
       }
@@ -38,8 +37,6 @@ export default function Home({ blogs }) {
   const [isDarkMode, setIsDarkMode] = useState(false);
   const [blogData, setBlogData] = useState(blogs)
 
-  console.log(blogData);
-
   return (
     <div className="max-w-full">
       <Head>
@@ -56,7 +53,17 @@ export default function Home({ blogs }) {
         </header>
 
         <main className="max-w-5xl mx-auto py-8">
-          {/* {blogData.map((q) => console.log(q))} */}
+          {blogData.map((q) => {
+            const { content } = q;
+
+            return(
+              <>
+                <div dangerouslySetInnerHTML={content} />
+                <hr></hr>
+                <hr></hr>
+              </>
+            )
+          })}
         </main>
       </div>
       <Script>
