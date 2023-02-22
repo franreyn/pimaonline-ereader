@@ -8,6 +8,7 @@ date: 2004-10-01T22:39:13.038Z
 subject: Horror
 ---
 ## I.
+
 THE EVE OF THE WAR.
 
  No one would have believed in the last years of the nineteenth century that this world was being watched keenly and closely by intelligences greater than man’s and yet as mortal as his own; that as men busied themselves about their various concerns they were scrutinised and studied, perhaps almost as narrowly as a man with a microscope might scrutinise the transient creatures that swarm and multiply in a drop of water. With infinite complacency men went to and fro over this globe about their little affairs, serene in their assurance of their empire over matter. It is possible that the infusoria under the microscope do the same. No one gave a thought to the older worlds of space as sources of human danger, or thought of them only to dismiss the idea of life upon them as impossible or improbable. It is curious to recall some of the mental habits of those departed days. At most terrestrial men fancied there might be other men upon Mars, perhaps inferior to themselves and ready to welcome a missionary enterprise. Yet across the gulf of space, minds that are to our minds as ours are to those of the beasts that perish, intellects vast and cool and unsympathetic, regarded this earth with envious eyes, and slowly and surely drew their plans against us. And early in the twentieth century came the great disillusionment.
@@ -50,7 +51,8 @@ Even the daily papers woke up to the disturbances at last, and popular notes app
 
 One night (the first missile then could scarcely have been 10,000,000 miles away) I went for a walk with my wife. It was starlight and I explained the Signs of the Zodiac to her, and pointed out Mars, a bright dot of light creeping zenithward, towards which so many telescopes were pointed. It was a warm night. Coming home, a party of excursionists from Chertsey or Isleworth passed us singing and playing music. There were lights in the upper windows of the houses as the people went to bed. From the railway station in the distance came the sound of shunting trains, ringing and rumbling, softened almost into melody by the distance. My wife pointed out to me the brightness of the red, green, and yellow signal lights hanging in a framework against the sky. It seemed so safe and tranquil. 
 
-## II. 
+## II.
+
 THE FALLING STAR.
 
  Then came the night of the first falling star. It was seen early in the morning, rushing over Winchester eastward, a line of flame high in the atmosphere. Hundreds must have seen it, and taken it for an ordinary falling star. Albin described it as leaving a greenish streak behind it that glowed for some seconds. Denning, our greatest authority on meteorites, stated that the height of its first appearance was about ninety or one hundred miles. It seemed to him that it fell to earth about one hundred miles east of him.
@@ -96,3 +98,38 @@ They listened, rapped on the scaly burnt metal with a stick, and, meeting with n
 Of course the two were quite unable to do anything. They shouted consolation and promises, and went off back to the town again to get help. One can imagine them, covered with sand, excited and disordered, running up the little street in the bright sunlight just as the shop folks were taking down their shutters and people were opening their bedroom windows. Henderson went into the railway station at once, in order to telegraph the news to London. The newspaper articles had prepared men’s minds for the reception of the idea.
 
 By eight o’clock a number of boys and unemployed men had already started for the common to see the “dead men from Mars.” That was the form the story took. I heard of it first from my newspaper boy about a quarter to nine when I went out to get my Daily Chronicle. I was naturally startled, and lost no time in going out and across the Ottershaw bridge to the sand-pits.
+
+
+
+## III.
+ON HORSELL COMMON.
+
+ I found a little crowd of perhaps twenty people surrounding the huge hole in which the cylinder lay. I have already described the appearance of that colossal bulk, embedded in the ground. The turf and gravel about it seemed charred as if by a sudden explosion. No doubt its impact had caused a flash of fire. Henderson and Ogilvy were not there. I think they perceived that nothing was to be done for the present, and had gone away to breakfast at Henderson’s house.
+
+There were four or five boys sitting on the edge of the Pit, with their feet dangling, and amusing themselves—until I stopped them—by throwing stones at the giant mass. After I had spoken to them about it, they began playing at “touch” in and out of the group of bystanders.
+
+Among these were a couple of cyclists, a jobbing gardener I employed sometimes, a girl carrying a baby, Gregg the butcher and his little boy, and two or three loafers and golf caddies who were accustomed to hang about the railway station. There was very little talking. Few of the common people in England had anything but the vaguest astronomical ideas in those days. Most of them were staring quietly at the big table like end of the cylinder, which was still as Ogilvy and Henderson had left it. I fancy the popular expectation of a heap of charred corpses was disappointed at this inanimate bulk. Some went away while I was there, and other people came. I clambered into the pit and fancied I heard a faint movement under my feet. The top had certainly ceased to rotate.
+
+It was only when I got thus close to it that the strangeness of this object was at all evident to me. At the first glance it was really no more exciting than an overturned carriage or a tree blown across the road. Not so much so, indeed. It looked like a rusty gas float. It required a certain amount of scientific education to perceive that the grey scale of the Thing was no common oxide, that the yellowish-white metal that gleamed in the crack between the lid and the cylinder had an unfamiliar hue. “Extra-terrestrial” had no meaning for most of the onlookers.
+
+At that time it was quite clear in my own mind that the Thing had come from the planet Mars, but I judged it improbable that it contained any living creature. I thought the unscrewing might be automatic. In spite of Ogilvy, I still believed that there were men in Mars. My mind ran fancifully on the possibilities of its containing manuscript, on the difficulties in translation that might arise, whether we should find coins and models in it, and so forth. Yet it was a little too large for assurance on this idea. I felt an impatience to see it opened. About eleven, as nothing seemed happening, I walked back, full of such thought, to my home in Maybury. But I found it difficult to get to work upon my abstract investigations.
+
+In the afternoon the appearance of the common had altered very much. The early editions of the evening papers had startled London with enormous headlines:
+
+“A MESSAGE RECEIVED FROM MARS.”
+
+“REMARKABLE STORY FROM WOKING,”
+
+and so forth. In addition, Ogilvy’s wire to the Astronomical Exchange had roused every observatory in the three kingdoms.
+
+There were half a dozen flys or more from the Woking station standing in the road by the sand-pits, a basket-chaise from Chobham, and a rather lordly carriage. Besides that, there was quite a heap of bicycles. In addition, a large number of people must have walked, in spite of the heat of the day, from Woking and Chertsey, so that there was altogether quite a considerable crowd—one or two gaily dressed ladies among the others.
+
+It was glaringly hot, not a cloud in the sky nor a breath of wind, and the only shadow was that of the few scattered pine trees. The burning heather had been extinguished, but the level ground towards Ottershaw was blackened as far as one could see, and still giving off vertical streamers of smoke. An enterprising sweet-stuff dealer in the Chobham Road had sent up his son with a barrow-load of green apples and ginger beer.
+
+Going to the edge of the pit, I found it occupied by a group of about half a dozen men—Henderson, Ogilvy, and a tall, fair-haired man that I afterwards learned was Stent, the Astronomer Royal, with several workmen wielding spades and pickaxes. Stent was giving directions in a clear, high-pitched voice. He was standing on the cylinder, which was now evidently much cooler; his face was crimson and streaming with perspiration, and something seemed to have irritated him.
+
+A large portion of the cylinder had been uncovered, though its lower end was still embedded. As soon as Ogilvy saw me among the staring crowd on the edge of the pit he called to me to come down, and asked me if I would mind going over to see Lord Hilton, the lord of the manor.
+
+The growing crowd, he said, was becoming a serious impediment to their excavations, especially the boys. They wanted a light railing put up, and help to keep the people back. He told me that a faint stirring was occasionally still audible within the case, but that the workmen had failed to unscrew the top, as it afforded no grip to them. The case appeared to be enormously thick, and it was possible that the faint sounds we heard represented a noisy tumult in the interior.
+
+I was very glad to do as he asked, and so become one of the privileged spectators within the contemplated enclosure. I failed to find Lord Hilton at his house, but I was told he was expected from London by the six o’clock train from Waterloo; and as it was then about a quarter past five, I went home, had some tea, and walked up to the station to waylay him.
