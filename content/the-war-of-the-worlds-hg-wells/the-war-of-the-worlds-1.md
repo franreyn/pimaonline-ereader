@@ -99,7 +99,7 @@ Of course the two were quite unable to do anything. They shouted consolation and
 
 By eight o’clock a number of boys and unemployed men had already started for the common to see the “dead men from Mars.” That was the form the story took. I heard of it first from my newspaper boy about a quarter to nine when I went out to get my Daily Chronicle. I was naturally startled, and lost no time in going out and across the Ottershaw bridge to the sand-pits.
 
-## III. 
+## III.
 
 ## ON HORSELL COMMON.
 
@@ -133,9 +133,7 @@ The growing crowd, he said, was becoming a serious impediment to their excavatio
 
 I was very glad to do as he asked, and so become one of the privileged spectators within the contemplated enclosure. I failed to find Lord Hilton at his house, but I was told he was expected from London by the six o’clock train from Waterloo; and as it was then about a quarter past five, I went home, had some tea, and walked up to the station to waylay him. 
 
-
-
-## IV. 
+## IV.
 
 ## THE CYLINDER OPENS.
 
