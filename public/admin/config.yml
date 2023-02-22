@@ -8,17 +8,36 @@ media_folder: "public/images/uploads" # Media files will be stored in the repo u
 public_folder: "/images/uploads" # The src attribute for uploaded media will begin with /images/uploads
 # Begin collections
 collections:
-  - name: "page" # Used in routes, e.g., /admin/collections/blog
-    label: "Page" # Used in the UI
-    description: "These are the individual pages"
-    folder: "content/md/pages" # The path to the folder where the documents are stored
+  - name: "the-war-of-the-worlds-hg-wells" # Used in routes, e.g., /admin/collections/blog
+    label: "The War of the Worlds, by H.G. Wells" # Used in the UI
+    description: "The War of the Worlds, by H.G. Wells"
+    folder: "content/the-war-of-the-worlds-hg-wells" # The path to the folder where the documents are stored
     create: true # Allow users to create new documents in this collection
     delete: true # Prevents users from deleting items in a collection 
-    slug: "{{year}}-{{month}}-{{day}}-{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
+    slug: "{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
     fields: # The fields for each document, usually in front matter
       - {label: "Layout", name: "layout", widget: "hidden", default: "blog"}
       - {label: "Title", name: "title", widget: "string"}
       - {label: "Author", name: "author", widget: "string"}
+      - {label: "Author", name: "author", widget: "string"}
+      - {label: "Author", name: "author", widget: "string"}
       - {label: "Publish Date", name: "date", widget: "datetime"}
-      - {label: "Last Updated", name: "updated", widget: "datetime"}
+      - {label: "Subject", name: "subject", widget: "string"}
+      - {label: "Body", name: "body", widget: "markdown"}
+      
+  - name: "the-wonderful-wizard-of-oz-l-frank-baum" 
+    label: "The Wonderful Wizard of Oz, by L. Frank Baum" 
+    description: "The Wonderful Wizard of Oz, by L. Frank Baum"
+    folder: "content/the-wonderful-wizard-of-oz-l-frank-baum" 
+    create: true 
+    delete: true 
+    slug: "{{slug}}" 
+    fields: 
+      - {label: "Layout", name: "layout", widget: "hidden", default: "blog"}
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Author", name: "author", widget: "string"}
+      - {label: "Author", name: "author", widget: "string"}
+      - {label: "Author", name: "author", widget: "string"}
+      - {label: "Publish Date", name: "date", widget: "datetime"}
+      - {label: "Subject", name: "subject", widget: "string"}
       - {label: "Body", name: "body", widget: "markdown"}

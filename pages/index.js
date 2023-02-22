@@ -58,7 +58,7 @@ export default function Home({ blogs }) {
 
             return(
               <>
-                <div dangerouslySetInnerHTML={content} />
+                <ReactMarkdown children={content}></ReactMarkdown>
                 <hr></hr>
                 <hr></hr>
               </>
