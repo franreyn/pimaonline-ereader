@@ -7,7 +7,7 @@ const matter = require("gray-matter");
 
 const getAll = dir => {
   // Read files at _posts/{directory}
-  const directory = path.join(process.cwd(), `content/md/${dir}`);
+  const directory = path.join(process.cwd(), dir);
   const fileNames = fs.readdirSync(directory);
   // Get the content of the files as JSON
   const content = fileNames.map(fileName => {
@@ -15,16 +15,13 @@ const getAll = dir => {
     const fullPath = path.join(directory, fileName);
     const fileContents = fs.readFileSync(fullPath, "utf8");
     const matterResult = matter(fileContents);
-    return {
-      slug,
-      ...matterResult
-    };
+    return {slug, ...matterResult};
   });
   // Return a big array of JSON
   return JSON.stringify(content);
 };
 
-const allPosts = getAll("pages");
+const allPosts = getAll("content");
 
 const postFileContents = `${allPosts}`;
 

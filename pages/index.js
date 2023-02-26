@@ -6,9 +6,6 @@ import { useState } from "react";
 import Script from "next/script";
 import { ReactMarkdown } from 'react-markdown/lib/react-markdown';
 
-// const uri = "https://rickandmortyapi.com/api/character";
-// const uri = "https://api.github.com/repos/frankiejrey/pimaonline-ereader/contents/public/cache/pages?ref=main";
-
 export const getServerSideProps = async () => {
   const filesInBlogs = fs.readdirSync('./content/md/pages');
  
