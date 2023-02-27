@@ -1,17 +1,15 @@
 ---
 layout: blog
-title: The War of the Worlds
+title: A Second Test Book
 author1: H. G. Wells
 author2: H. G. Wells
 author3: H. G. Wells
 date: 2005-10-01T22:39:13.038Z
 subject: Horror
 ---
-## I.
+## I. THE EVE OF THE WAR.
 
-## THE EVE OF THE WAR.
-
- No one would have believed in the last years of the nineteenth century that this world was being watched keenly and closely by intelligences greater than man’s and yet as mortal as his own; that as men busied themselves about their various concerns they were scrutinised and studied, perhaps almost as narrowly as a man with a microscope might scrutinise the transient creatures that swarm and multiply in a drop of water. With infinite complacency men went to and fro over this globe about their little affairs, serene in their assurance of their empire over matter. It is possible that the infusoria under the microscope do the same. No one gave a thought to the older worlds of space as sources of human danger, or thought of them only to dismiss the idea of life upon them as impossible or improbable. It is curious to recall some of the mental habits of those departed days. At most terrestrial men fancied there might be other men upon Mars, perhaps inferior to themselves and ready to welcome a missionary enterprise. Yet across the gulf of space, minds that are to our minds as ours are to those of the beasts that perish, intellects vast and cool and unsympathetic, regarded this earth with envious eyes, and slowly and surely drew their plans against us. And early in the twentieth century came the great disillusionment.
+No one would have believed in the last years of the nineteenth century that this world was being watched keenly and closely by intelligences greater than man’s and yet as mortal as his own; that as men busied themselves about their various concerns they were scrutinised and studied, perhaps almost as narrowly as a man with a microscope might scrutinise the transient creatures that swarm and multiply in a drop of water. With infinite complacency men went to and fro over this globe about their little affairs, serene in their assurance of their empire over matter. It is possible that the infusoria under the microscope do the same. No one gave a thought to the older worlds of space as sources of human danger, or thought of them only to dismiss the idea of life upon them as impossible or improbable. It is curious to recall some of the mental habits of those departed days. At most terrestrial men fancied there might be other men upon Mars, perhaps inferior to themselves and ready to welcome a missionary enterprise. Yet across the gulf of space, minds that are to our minds as ours are to those of the beasts that perish, intellects vast and cool and unsympathetic, regarded this earth with envious eyes, and slowly and surely drew their plans against us. And early in the twentieth century came the great disillusionment.
 
 The planet Mars, I scarcely need remind the reader, revolves about the sun at a mean distance of 140,000,000 miles, and the light and heat it receives from the sun is barely half of that received by this world. It must be, if the nebular hypothesis has any truth, older than our world; and long before this earth ceased to be molten, life upon its surface must have begun its course. The fact that it is scarcely one seventh of the volume of the earth must have accelerated its cooling to the temperature at which life could begin. It has air and water and all that is necessary for the support of animated existence.
 
@@ -51,11 +49,9 @@ Even the daily papers woke up to the disturbances at last, and popular notes app
 
 One night (the first missile then could scarcely have been 10,000,000 miles away) I went for a walk with my wife. It was starlight and I explained the Signs of the Zodiac to her, and pointed out Mars, a bright dot of light creeping zenithward, towards which so many telescopes were pointed. It was a warm night. Coming home, a party of excursionists from Chertsey or Isleworth passed us singing and playing music. There were lights in the upper windows of the houses as the people went to bed. From the railway station in the distance came the sound of shunting trains, ringing and rumbling, softened almost into melody by the distance. My wife pointed out to me the brightness of the red, green, and yellow signal lights hanging in a framework against the sky. It seemed so safe and tranquil. 
 
-## II.
+## II. THE FALLING STAR.
 
-## THE FALLING STAR.
-
- Then came the night of the first falling star. It was seen early in the morning, rushing over Winchester eastward, a line of flame high in the atmosphere. Hundreds must have seen it, and taken it for an ordinary falling star. Albin described it as leaving a greenish streak behind it that glowed for some seconds. Denning, our greatest authority on meteorites, stated that the height of its first appearance was about ninety or one hundred miles. It seemed to him that it fell to earth about one hundred miles east of him.
+Then came the night of the first falling star. It was seen early in the morning, rushing over Winchester eastward, a line of flame high in the atmosphere. Hundreds must have seen it, and taken it for an ordinary falling star. Albin described it as leaving a greenish streak behind it that glowed for some seconds. Denning, our greatest authority on meteorites, stated that the height of its first appearance was about ninety or one hundred miles. It seemed to him that it fell to earth about one hundred miles east of him.
 
 I was at home at that hour and writing in my study; and although my French windows face towards Ottershaw and the blind was up (for I loved in those days to look up at the night sky), I saw nothing of it. Yet this strangest of all things that ever came to earth from outer space must have fallen while I was sitting there, visible to me had I only looked up as it passed. Some of those who saw its flight say it travelled with a hissing sound. I myself heard nothing of that. Many people in Berkshire, Surrey, and Middlesex must have seen the fall of it, and, at most, have thought that another meteorite had descended. No one seems to have troubled to look for the fallen mass that night.
 
@@ -99,11 +95,9 @@ Of course the two were quite unable to do anything. They shouted consolation and
 
 By eight o’clock a number of boys and unemployed men had already started for the common to see the “dead men from Mars.” That was the form the story took. I heard of it first from my newspaper boy about a quarter to nine when I went out to get my Daily Chronicle. I was naturally startled, and lost no time in going out and across the Ottershaw bridge to the sand-pits.
 
-## III.
+## III. ON HORSELL COMMON.
 
-## ON HORSELL COMMON.
-
- I found a little crowd of perhaps twenty people surrounding the huge hole in which the cylinder lay. I have already described the appearance of that colossal bulk, embedded in the ground. The turf and gravel about it seemed charred as if by a sudden explosion. No doubt its impact had caused a flash of fire. Henderson and Ogilvy were not there. I think they perceived that nothing was to be done for the present, and had gone away to breakfast at Henderson’s house.
+I found a little crowd of perhaps twenty people surrounding the huge hole in which the cylinder lay. I have already described the appearance of that colossal bulk, embedded in the ground. The turf and gravel about it seemed charred as if by a sudden explosion. No doubt its impact had caused a flash of fire. Henderson and Ogilvy were not there. I think they perceived that nothing was to be done for the present, and had gone away to breakfast at Henderson’s house.
 
 There were four or five boys sitting on the edge of the Pit, with their feet dangling, and amusing themselves—until I stopped them—by throwing stones at the giant mass. After I had spoken to them about it, they began playing at “touch” in and out of the group of bystanders.
 
@@ -133,11 +127,9 @@ The growing crowd, he said, was becoming a serious impediment to their excavatio
 
 I was very glad to do as he asked, and so become one of the privileged spectators within the contemplated enclosure. I failed to find Lord Hilton at his house, but I was told he was expected from London by the six o’clock train from Waterloo; and as it was then about a quarter past five, I went home, had some tea, and walked up to the station to waylay him. 
 
-## IV.
+## IV. THE CYLINDER OPENS.
 
-## THE CYLINDER OPENS.
-
- When I returned to the common the sun was setting. Scattered groups were hurrying from the direction of Woking, and one or two persons were returning. The crowd about the pit had increased, and stood out black against the lemon yellow of the sky—a couple of hundred people, perhaps. There were raised voices, and some sort of struggle appeared to be going on about the pit. Strange imaginings passed through my mind. As I drew nearer I heard Stent’s voice:
+When I returned to the common the sun was setting. Scattered groups were hurrying from the direction of Woking, and one or two persons were returning. The crowd about the pit had increased, and stood out black against the lemon yellow of the sky—a couple of hundred people, perhaps. There were raised voices, and some sort of struggle appeared to be going on about the pit. Strange imaginings passed through my mind. As I drew nearer I heard Stent’s voice:
 
 “Keep back! Keep back!”
 
@@ -177,11 +169,9 @@ There, among some young pine trees and furze bushes, I stopped, panting, and wai
 
 Everything was then quite invisible, hidden by the deep pit and the heap of sand that the fall of the cylinder had made. Anyone coming along the road from Chobham or Woking would have been amazed at the sight—a dwindling multitude of perhaps a hundred people or more standing in a great irregular circle, in ditches, behind bushes, behind gates and hedges, saying little to one another and that in short, excited shouts, and staring, staring hard at a few heaps of sand. The barrow of ginger beer stood, a queer derelict, black against the burning sky, and in the sand-pits was a row of deserted vehicles with their horses feeding out of nosebags or pawing the ground.
 
-## V.
+## V. THE HEAT-RAY.
 
-## THE HEAT-RAY.
-
- After the glimpse I had had of the Martians emerging from the cylinder in which they had come to the earth from their planet, a kind of fascination paralysed my actions. I remained standing knee-deep in the heather, staring at the mound that hid them. I was a battleground of fear and curiosity.
+After the glimpse I had had of the Martians emerging from the cylinder in which they had come to the earth from their planet, a kind of fascination paralysed my actions. I remained standing knee-deep in the heather, staring at the mound that hid them. I was a battleground of fear and curiosity.
 
 I did not dare to go back towards the pit, but I felt a passionate longing to peer into it. I began walking, therefore, in a big curve, seeking some point of vantage and continually looking at the sand-heaps that hid these new-comers to our earth. Once a leash of thin black whips, like the arms of an octopus, flashed across the sunset and was immediately withdrawn, and afterwards a thin rod rose up, joint by joint, bearing at its apex a circular disk that spun with a wobbling motion. What could be going on there?
 
