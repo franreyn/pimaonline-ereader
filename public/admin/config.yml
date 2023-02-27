@@ -11,7 +11,7 @@ collections:
   - name: "the-war-of-the-worlds-hg-wells" # Used in routes, e.g., /admin/collections/blog
     label: "The War of the Worlds, by H.G. Wells" # Used in the UI
     description: "The War of the Worlds, by H.G. Wells"
-    folder: "content/the-war-of-the-worlds-hg-wells" # The path to the folder where the documents are stored
+    folder: "content" # The path to the folder where the documents are stored
     create: true # Allow users to create new documents in this collection
     delete: true # Prevents users from deleting items in a collection 
     slug: "{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
@@ -28,7 +28,7 @@ collections:
   - name: "the-wonderful-wizard-of-oz-l-frank-baum" 
     label: "The Wonderful Wizard of Oz, by L. Frank Baum" 
     description: "The Wonderful Wizard of Oz, by L. Frank Baum"
-    folder: "content/the-wonderful-wizard-of-oz-l-frank-baum" 
+    folder: "content" 
     create: true 
     delete: true 
     slug: "{{slug}}" 
