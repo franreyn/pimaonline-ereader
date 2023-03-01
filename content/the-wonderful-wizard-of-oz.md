@@ -1745,4 +1745,224 @@ The Lion hesitated no longer, but drank till the dish was empty.
 
 “Full of courage,” replied the Lion, who went joyfully back to his friends to tell them of his good fortune.
 
-Oz, left to himself, smiled to think of his success in giving the Scarecrow and the Tin Woodman and the Lion exactly what they thought they wanted. “How can I help being a humbug,” he said, “when all these people make me do things that everybody knows can’t be done? It was easy to make the Scarecrow and the Lion and the Woodman happy, because they imagined I could do anything. But it will take more than imagination to carry Dorothy back to Kansas, and I’m sure I don’t know how it can be done.”
+Oz, left to himself, smiled to think of his success in giving the Scarecrow and the Tin Woodman and the Lion exactly what they thought they wanted. “How can I help being a humbug,” he said, “when all these people make me do things that everybody knows can’t be done? It was easy to make the Scarecrow and the Lion and the Woodman happy, because they imagined I could do anything. But it will take more than imagination to carry Dorothy back to Kansas, and I’m sure I don’t know how it can be done.” 
+
+## Chapter XVII : How the Balloon Was Launched
+
+ For three days Dorothy heard nothing from Oz. These were sad days for the little girl, although her friends were all quite happy and contented. The Scarecrow told them there were wonderful thoughts in his head; but he would not say what they were because he knew no one could understand them but himself. When the Tin Woodman walked about he felt his heart rattling around in his breast; and he told Dorothy he had discovered it to be a kinder and more tender heart than the one he had owned when he was made of flesh. The Lion declared he was afraid of nothing on earth, and would gladly face an army or a dozen of the fierce Kalidahs.
+
+Thus each of the little party was satisfied except Dorothy, who longed more than ever to get back to Kansas.
+
+On the fourth day, to her great joy, Oz sent for her, and when she entered the Throne Room he greeted her pleasantly:
+
+“Sit down, my dear; I think I have found the way to get you out of this country.”
+
+“And back to Kansas?” she asked eagerly.
+
+“Well, I’m not sure about Kansas,” said Oz, “for I haven’t the faintest notion which way it lies. But the first thing to do is to cross the desert, and then it should be easy to find your way home.”
+
+“How can I cross the desert?” she inquired.
+
+“Well, I’ll tell you what I think,” said the little man. “You see, when I came to this country it was in a balloon. You also came through the air, being carried by a cyclone. So I believe the best way to get across the desert will be through the air. Now, it is quite beyond my powers to make a cyclone; but I’ve been thinking the matter over, and I believe I can make a balloon.”
+
+“How?” asked Dorothy.
+
+“A balloon,” said Oz, “is made of silk, which is coated with glue to keep the gas in it. I have plenty of silk in the Palace, so it will be no trouble to make the balloon. But in all this country there is no gas to fill the balloon with, to make it float.”
+
+“If it won’t float,” remarked Dorothy, “it will be of no use to us.”
+
+“True,” answered Oz. “But there is another way to make it float, which is to fill it with hot air. Hot air isn’t as good as gas, for if the air should get cold the balloon would come down in the desert, and we should be lost.”
+
+“We!” exclaimed the girl. “Are you going with me?”
+
+“Yes, of course,” replied Oz. “I am tired of being such a humbug. If I should go out of this Palace my people would soon discover I am not a Wizard, and then they would be vexed with me for having deceived them. So I have to stay shut up in these rooms all day, and it gets tiresome. I’d much rather go back to Kansas with you and be in a circus again.”
+
+“I shall be glad to have your company,” said Dorothy.
+
+“Thank you,” he answered. “Now, if you will help me sew the silk together, we will begin to work on our balloon.”
+
+So Dorothy took a needle and thread, and as fast as Oz cut the strips of silk into proper shape the girl sewed them neatly together. First there was a strip of light green silk, then a strip of dark green and then a strip of emerald green; for Oz had a fancy to make the balloon in different shades of the color about them. It took three days to sew all the strips together, but when it was finished they had a big bag of green silk more than twenty feet long.
+
+Then Oz painted it on the inside with a coat of thin glue, to make it airtight, after which he announced that the balloon was ready.
+
+“But we must have a basket to ride in,” he said. So he sent the soldier with the green whiskers for a big clothes basket, which he fastened with many ropes to the bottom of the balloon.
+
+When it was all ready, Oz sent word to his people that he was going to make a visit to a great brother Wizard who lived in the clouds. The news spread rapidly throughout the city and everyone came to see the wonderful sight.
+
+Oz ordered the balloon carried out in front of the Palace, and the people gazed upon it with much curiosity. The Tin Woodman had chopped a big pile of wood, and now he made a fire of it, and Oz held the bottom of the balloon over the fire so that the hot air that arose from it would be caught in the silken bag. Gradually the balloon swelled out and rose into the air, until finally the basket just touched the ground.
+
+Then Oz got into the basket and said to all the people in a loud voice:
+
+“I am now going away to make a visit. While I am gone the Scarecrow will rule over you. I command you to obey him as you would me.”
+
+The balloon was by this time tugging hard at the rope that held it to the ground, for the air within it was hot, and this made it so much lighter in weight than the air without that it pulled hard to rise into the sky.
+
+“Come, Dorothy!” cried the Wizard. “Hurry up, or the balloon will fly away.”
+
+“I can’t find Toto anywhere,” replied Dorothy, who did not wish to leave her little dog behind. Toto had run into the crowd to bark at a kitten, and Dorothy at last found him. She picked him up and ran towards the balloon.
+
+She was within a few steps of it, and Oz was holding out his hands to help her into the basket, when, crack! went the ropes, and the balloon rose into the air without her.
+
+“Come back!” she screamed. “I want to go, too!”
+
+“I can’t come back, my dear,” called Oz from the basket. “Good-bye!”
+
+“Good-bye!” shouted everyone, and all eyes were turned upward to where the Wizard was riding in the basket, rising every moment farther and farther into the sky.
+
+And that was the last any of them ever saw of Oz, the Wonderful Wizard, though he may have reached Omaha safely, and be there now, for all we know. But the people remembered him lovingly, and said to one another:
+
+“Oz was always our friend. When he was here he built for us this beautiful Emerald City, and now he is gone he has left the Wise Scarecrow to rule over us.”
+
+Still, for many days they grieved over the loss of the Wonderful Wizard, and would not be comforted.
+
+## Chapter XVIII : Away to the South
+
+Dorothy wept bitterly at the passing of her hope to get home to Kansas again; but when she thought it all over she was glad she had not gone up in a balloon. And she also felt sorry at losing Oz, and so did her companions.
+
+The Tin Woodman came to her and said:
+
+“Truly I should be ungrateful if I failed to mourn for the man who gave me my lovely heart. I should like to cry a little because Oz is gone, if you will kindly wipe away my tears, so that I shall not rust.”
+
+“With pleasure,” she answered, and brought a towel at once. Then the Tin Woodman wept for several minutes, and she watched the tears carefully and wiped them away with the towel. When he had finished, he thanked her kindly and oiled himself thoroughly with his jeweled oil-can, to guard against mishap.
+
+The Scarecrow was now the ruler of the Emerald City, and although he was not a Wizard the people were proud of him. “For,” they said, “there is not another city in all the world that is ruled by a stuffed man.” And, so far as they knew, they were quite right.
+
+The morning after the balloon had gone up with Oz, the four travelers met in the Throne Room and talked matters over. The Scarecrow sat in the big throne and the others stood respectfully before him.
+
+“We are not so unlucky,” said the new ruler, “for this Palace and the Emerald City belong to us, and we can do just as we please. When I remember that a short time ago I was up on a pole in a farmer’s cornfield, and that now I am the ruler of this beautiful City, I am quite satisfied with my lot.”
+
+“I also,” said the Tin Woodman, “am well-pleased with my new heart; and, really, that was the only thing I wished in all the world.”
+
+“For my part, I am content in knowing I am as brave as any beast that ever lived, if not braver,” said the Lion modestly.
+
+“If Dorothy would only be contented to live in the Emerald City,” continued the Scarecrow, “we might all be happy together.”
+
+“But I don’t want to live here,” cried Dorothy. “I want to go to Kansas, and live with Aunt Em and Uncle Henry.”
+
+“Well, then, what can be done?” inquired the Woodman.
+
+The Scarecrow decided to think, and he thought so hard that the pins and needles began to stick out of his brains. Finally he said:
+
+“Why not call the Winged Monkeys, and ask them to carry you over the desert?”
+
+“I never thought of that!” said Dorothy joyfully. “It’s just the thing. I’ll go at once for the Golden Cap.”
+
+When she brought it into the Throne Room she spoke the magic words, and soon the band of Winged Monkeys flew in through the open window and stood beside her.
+
+“This is the second time you have called us,” said the Monkey King, bowing before the little girl. “What do you wish?”
+
+“I want you to fly with me to Kansas,” said Dorothy.
+
+But the Monkey King shook his head.
+
+“That cannot be done,” he said. “We belong to this country alone, and cannot leave it. There has never been a Winged Monkey in Kansas yet, and I suppose there never will be, for they don’t belong there. We shall be glad to serve you in any way in our power, but we cannot cross the desert. Good-bye.”
+
+And with another bow, the Monkey King spread his wings and flew away through the window, followed by all his band.
+
+Dorothy was ready to cry with disappointment. “I have wasted the charm of the Golden Cap to no purpose,” she said, “for the Winged Monkeys cannot help me.”
+
+“It is certainly too bad!” said the tender-hearted Woodman.
+
+The Scarecrow was thinking again, and his head bulged out so horribly that Dorothy feared it would burst.
+
+“Let us call in the soldier with the green whiskers,” he said, “and ask his advice.”
+
+So the soldier was summoned and entered the Throne Room timidly, for while Oz was alive he never was allowed to come farther than the door.
+
+“This little girl,” said the Scarecrow to the soldier, “wishes to cross the desert. How can she do so?”
+
+“I cannot tell,” answered the soldier, “for nobody has ever crossed the desert, unless it is Oz himself.”
+
+“Is there no one who can help me?” asked Dorothy earnestly.
+
+“Glinda might,” he suggested.
+
+“Who is Glinda?” inquired the Scarecrow.
+
+“The Witch of the South. She is the most powerful of all the Witches, and rules over the Quadlings. Besides, her castle stands on the edge of the desert, so she may know a way to cross it.”
+
+“Glinda is a Good Witch, isn’t she?” asked the child.
+
+“The Quadlings think she is good,” said the soldier, “and she is kind to everyone. I have heard that Glinda is a beautiful woman, who knows how to keep young in spite of the many years she has lived.”
+
+“How can I get to her castle?” asked Dorothy.
+
+“The road is straight to the South,” he answered, “but it is said to be full of dangers to travelers. There are wild beasts in the woods, and a race of queer men who do not like strangers to cross their country. For this reason none of the Quadlings ever come to the Emerald City.”
+
+The soldier then left them and the Scarecrow said:
+
+“It seems, in spite of dangers, that the best thing Dorothy can do is to travel to the Land of the South and ask Glinda to help her. For, of course, if Dorothy stays here she will never get back to Kansas.”
+
+“You must have been thinking again,” remarked the Tin Woodman.
+
+“I have,” said the Scarecrow.
+
+“I shall go with Dorothy,” declared the Lion, “for I am tired of your city and long for the woods and the country again. I am really a wild beast, you know. Besides, Dorothy will need someone to protect her.”
+
+“That is true,” agreed the Woodman. “My axe may be of service to her; so I also will go with her to the Land of the South.”
+
+“When shall we start?” asked the Scarecrow.
+
+“Are you going?” they asked, in surprise.
+
+“Certainly. If it wasn’t for Dorothy I should never have had brains. She lifted me from the pole in the cornfield and brought me to the Emerald City. So my good luck is all due to her, and I shall never leave her until she starts back to Kansas for good and all.”
+
+“Thank you,” said Dorothy gratefully. “You are all very kind to me. But I should like to start as soon as possible.”
+
+“We shall go tomorrow morning,” returned the Scarecrow. “So now let us all get ready, for it will be a long journey.”
+
+## Chapter XIX : Attacked by the Fighting Trees
+
+ The next morning Dorothy kissed the pretty green girl good-bye, and they all shook hands with the soldier with the green whiskers, who had walked with them as far as the gate. When the Guardian of the Gate saw them again he wondered greatly that they could leave the beautiful City to get into new trouble. But he at once unlocked their spectacles, which he put back into the green box, and gave them many good wishes to carry with them.
+
+“You are now our ruler,” he said to the Scarecrow; “so you must come back to us as soon as possible.”
+
+“I certainly shall if I am able,” the Scarecrow replied; “but I must help Dorothy to get home, first.”
+
+As Dorothy bade the good-natured Guardian a last farewell she said:
+
+“I have been very kindly treated in your lovely City, and everyone has been good to me. I cannot tell you how grateful I am.”
+
+“Don’t try, my dear,” he answered. “We should like to keep you with us, but if it is your wish to return to Kansas, I hope you will find a way.” He then opened the gate of the outer wall, and they walked forth and started upon their journey.
+
+The sun shone brightly as our friends turned their faces toward the Land of the South. They were all in the best of spirits, and laughed and chatted together. Dorothy was once more filled with the hope of getting home, and the Scarecrow and the Tin Woodman were glad to be of use to her. As for the Lion, he sniffed the fresh air with delight and whisked his tail from side to side in pure joy at being in the country again, while Toto ran around them and chased the moths and butterflies, barking merrily all the time.
+
+“City life does not agree with me at all,” remarked the Lion, as they walked along at a brisk pace. “I have lost much flesh since I lived there, and now I am anxious for a chance to show the other beasts how courageous I have grown.”
+
+They now turned and took a last look at the Emerald City. All they could see was a mass of towers and steeples behind the green walls, and high up above everything the spires and dome of the Palace of Oz.
+
+“Oz was not such a bad Wizard, after all,” said the Tin Woodman, as he felt his heart rattling around in his breast.
+
+“He knew how to give me brains, and very good brains, too,” said the Scarecrow.
+
+“If Oz had taken a dose of the same courage he gave me,” added the Lion, “he would have been a brave man.”
+
+Dorothy said nothing. Oz had not kept the promise he made her, but he had done his best, so she forgave him. As he said, he was a good man, even if he was a bad Wizard.
+
+The first day’s journey was through the green fields and bright flowers that stretched about the Emerald City on every side. They slept that night on the grass, with nothing but the stars over them; and they rested very well indeed.
+
+In the morning they traveled on until they came to a thick wood. There was no way of going around it, for it seemed to extend to the right and left as far as they could see; and, besides, they did not dare change the direction of their journey for fear of getting lost. So they looked for the place where it would be easiest to get into the forest.
+
+The Scarecrow, who was in the lead, finally discovered a big tree with such wide-spreading branches that there was room for the party to pass underneath. So he walked forward to the tree, but just as he came under the first branches they bent down and twined around him, and the next minute he was raised from the ground and flung headlong among his fellow travelers.
+
+This did not hurt the Scarecrow, but it surprised him, and he looked rather dizzy when Dorothy picked him up.
+
+“Here is another space between the trees,” called the Lion.
+
+“Let me try it first,” said the Scarecrow, “for it doesn’t hurt me to get thrown about.” He walked up to another tree, as he spoke, but its branches immediately seized him and tossed him back again.
+
+“This is strange,” exclaimed Dorothy. “What shall we do?”
+
+“The trees seem to have made up their minds to fight us, and stop our journey,” remarked the Lion.
+
+“I believe I will try it myself,” said the Woodman, and shouldering his axe, he marched up to the first tree that had handled the Scarecrow so roughly. When a big branch bent down to seize him the Woodman chopped at it so fiercely that he cut it in two. At once the tree began shaking all its branches as if in pain, and the Tin Woodman passed safely under it.
+
+“Come on!” he shouted to the others. “Be quick!” They all ran forward and passed under the tree without injury, except Toto, who was caught by a small branch and shaken until he howled. But the Woodman promptly chopped off the branch and set the little dog free.
+
+The other trees of the forest did nothing to keep them back, so they made up their minds that only the first row of trees could bend down their branches, and that probably these were the policemen of the forest, and given this wonderful power in order to keep strangers out of it.
+
+The four travelers walked with ease through the trees until they came to the farther edge of the wood. Then, to their surprise, they found before them a high wall which seemed to be made of white china. It was smooth, like the surface of a dish, and higher than their heads.
+
+“What shall we do now?” asked Dorothy.
+
+“I will make a ladder,” said the Tin Woodman, “for we certainly must climb over the wall.”
