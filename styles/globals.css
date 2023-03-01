@@ -1,24 +1,74 @@
-@tailwind base;
+/* @tailwind base;
 @tailwind components;
-@tailwind utilities;
+@tailwind utilities; */
 
-#post h1 {
-  font-size: 5.653rem;
+html {
+  font-size: 17px;
+  font-family: Arial, Helvetica, sans-serif;
 }
 
-#post h2 {
-  font-size: 3.998rem;
+/* Ereader main reading content */
+.content-container {
+  max-width: 700px;
+  margin: 0 auto;
 }
 
-#post h3 {
-  font-size: 2.827;
+.content-container h2 {
+  font-size: 2.8rem;
 }
 
-#post h4 {
-  font-size: 1.999rem;
+.content-container p {
+  font-size: 1.2rem;
+  line-height: 1.35;
+}
+/* === */
+
+/* Page controller i.e. next, prev, page selection buttons */
+.page-controller {
+  max-width: 700px;
+  margin: 0 auto;
 }
 
-#post p {
-  font-size: 1.35rem;
-  line-height: 1.6;
+.page-controller button {
+  margin: 5px;
 }
+/* === */
+
+.publication-info {
+  max-width: 700px;
+  margin: 0 auto;
+}
+
+/* .reader-wrapper {
+  display: flex;
+} */
+
+/* Sidebar */
+.sidebar {
+  display: flex;
+  position: absolute;
+  left: 0;
+  top: 0;
+  height: 100%;
+  margin-right: 25%;
+}
+
+.sidebar-nav {
+  background-color: aqua;
+  height: 100%;
+  padding: 0px;
+  width: 0px;
+  transition: all 0.3s ease-in-out;
+}
+
+.sidebar-nav.open {
+  padding: 5px;
+  width: 90px;
+}
+
+.sidebar-controls {
+  background-color: aquamarine;
+  padding: 5px;
+
+}
+/* === */
