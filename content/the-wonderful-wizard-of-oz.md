@@ -558,3 +558,203 @@ During the rest of that day there was no other adventure to mar the peace of the
 Thereafter he walked very carefully, with his eyes on the road, and when he saw a tiny ant toiling by he would step over it, so as not to harm it. The Tin Woodman knew very well he had no heart, and therefore he took great care never to be cruel or unkind to anything.
 
 “You people with hearts,” he said, “have something to guide you, and need never do wrong; but I have no heart, and so I must be very careful. When Oz gives me a heart of course I needn’t mind so much.”
+
+## Chapter VII : The Journey to the Great Oz
+
+ They were obliged to camp out that night under a large tree in the forest, for there were no houses near. The tree made a good, thick covering to protect them from the dew, and the Tin Woodman chopped a great pile of wood with his axe and Dorothy built a splendid fire that warmed her and made her feel less lonely. She and Toto ate the last of their bread, and now she did not know what they would do for breakfast.
+
+“If you wish,” said the Lion, “I will go into the forest and kill a deer for you. You can roast it by the fire, since your tastes are so peculiar that you prefer cooked food, and then you will have a very good breakfast.”
+
+“Don’t! Please don’t,” begged the Tin Woodman. “I should certainly weep if you killed a poor deer, and then my jaws would rust again.”
+
+But the Lion went away into the forest and found his own supper, and no one ever knew what it was, for he didn’t mention it. And the Scarecrow found a tree full of nuts and filled Dorothy’s basket with them, so that she would not be hungry for a long time. She thought this was very kind and thoughtful of the Scarecrow, but she laughed heartily at the awkward way in which the poor creature picked up the nuts. His padded hands were so clumsy and the nuts were so small that he dropped almost as many as he put in the basket. But the Scarecrow did not mind how long it took him to fill the basket, for it enabled him to keep away from the fire, as he feared a spark might get into his straw and burn him up. So he kept a good distance away from the flames, and only came near to cover Dorothy with dry leaves when she lay down to sleep. These kept her very snug and warm, and she slept soundly until morning.
+
+When it was daylight, the girl bathed her face in a little rippling brook, and soon after they all started toward the Emerald City.
+
+This was to be an eventful day for the travelers. They had hardly been walking an hour when they saw before them a great ditch that crossed the road and divided the forest as far as they could see on either side. It was a very wide ditch, and when they crept up to the edge and looked into it they could see it was also very deep, and there were many big, jagged rocks at the bottom. The sides were so steep that none of them could climb down, and for a moment it seemed that their journey must end.
+
+“What shall we do?” asked Dorothy despairingly.
+
+“I haven’t the faintest idea,” said the Tin Woodman, and the Lion shook his shaggy mane and looked thoughtful.
+
+But the Scarecrow said, “We cannot fly, that is certain. Neither can we climb down into this great ditch. Therefore, if we cannot jump over it, we must stop where we are.”
+
+“I think I could jump over it,” said the Cowardly Lion, after measuring the distance carefully in his mind.
+
+“Then we are all right,” answered the Scarecrow, “for you can carry us all over on your back, one at a time.”
+
+“Well, I’ll try it,” said the Lion. “Who will go first?”
+
+“I will,” declared the Scarecrow, “for, if you found that you could not jump over the gulf, Dorothy would be killed, or the Tin Woodman badly dented on the rocks below. But if I am on your back it will not matter so much, for the fall would not hurt me at all.”
+
+“I am terribly afraid of falling, myself,” said the Cowardly Lion, “but I suppose there is nothing to do but try it. So get on my back and we will make the attempt.”
+
+The Scarecrow sat upon the Lion’s back, and the big beast walked to the edge of the gulf and crouched down.
+
+“Why don’t you run and jump?” asked the Scarecrow.
+
+“Because that isn’t the way we Lions do these things,” he replied. Then giving a great spring, he shot through the air and landed safely on the other side. They were all greatly pleased to see how easily he did it, and after the Scarecrow had got down from his back the Lion sprang across the ditch again.
+
+Dorothy thought she would go next; so she took Toto in her arms and climbed on the Lion’s back, holding tightly to his mane with one hand. The next moment it seemed as if she were flying through the air; and then, before she had time to think about it, she was safe on the other side. The Lion went back a third time and got the Tin Woodman, and then they all sat down for a few moments to give the beast a chance to rest, for his great leaps had made his breath short, and he panted like a big dog that has been running too long.
+
+They found the forest very thick on this side, and it looked dark and gloomy. After the Lion had rested they started along the road of yellow brick, silently wondering, each in his own mind, if ever they would come to the end of the woods and reach the bright sunshine again. To add to their discomfort, they soon heard strange noises in the depths of the forest, and the Lion whispered to them that it was in this part of the country that the Kalidahs lived.
+
+“What are the Kalidahs?” asked the girl.
+
+“They are monstrous beasts with bodies like bears and heads like tigers,” replied the Lion, “and with claws so long and sharp that they could tear me in two as easily as I could kill Toto. I’m terribly afraid of the Kalidahs.”
+
+“I’m not surprised that you are,” returned Dorothy. “They must be dreadful beasts.”
+
+The Lion was about to reply when suddenly they came to another gulf across the road. But this one was so broad and deep that the Lion knew at once he could not leap across it.
+
+So they sat down to consider what they should do, and after serious thought the Scarecrow said:
+
+“Here is a great tree, standing close to the ditch. If the Tin Woodman can chop it down, so that it will fall to the other side, we can walk across it easily.”
+
+“That is a first-rate idea,” said the Lion. “One would almost suspect you had brains in your head, instead of straw.”
+
+The Woodman set to work at once, and so sharp was his axe that the tree was soon chopped nearly through. Then the Lion put his strong front legs against the tree and pushed with all his might, and slowly the big tree tipped and fell with a crash across the ditch, with its top branches on the other side.
+
+They had just started to cross this queer bridge when a sharp growl made them all look up, and to their horror they saw running toward them two great beasts with bodies like bears and heads like tigers.
+
+“They are the Kalidahs!” said the Cowardly Lion, beginning to tremble.
+
+“Quick!” cried the Scarecrow. “Let us cross over.”
+
+So Dorothy went first, holding Toto in her arms, the Tin Woodman followed, and the Scarecrow came next. The Lion, although he was certainly afraid, turned to face the Kalidahs, and then he gave so loud and terrible a roar that Dorothy screamed and the Scarecrow fell over backward, while even the fierce beasts stopped short and looked at him in surprise.
+
+But, seeing they were bigger than the Lion, and remembering that there were two of them and only one of him, the Kalidahs again rushed forward, and the Lion crossed over the tree and turned to see what they would do next. Without stopping an instant the fierce beasts also began to cross the tree. And the Lion said to Dorothy:
+
+“We are lost, for they will surely tear us to pieces with their sharp claws. But stand close behind me, and I will fight them as long as I am alive.”
+
+“Wait a minute!” called the Scarecrow. He had been thinking what was best to be done, and now he asked the Woodman to chop away the end of the tree that rested on their side of the ditch. The Tin Woodman began to use his axe at once, and, just as the two Kalidahs were nearly across, the tree fell with a crash into the gulf, carrying the ugly, snarling brutes with it, and both were dashed to pieces on the sharp rocks at the bottom.
+
+“Well,” said the Cowardly Lion, drawing a long breath of relief, “I see we are going to live a little while longer, and I am glad of it, for it must be a very uncomfortable thing not to be alive. Those creatures frightened me so badly that my heart is beating yet.”
+
+“Ah,” said the Tin Woodman sadly, “I wish I had a heart to beat.”
+
+This adventure made the travelers more anxious than ever to get out of the forest, and they walked so fast that Dorothy became tired, and had to ride on the Lion’s back. To their great joy the trees became thinner the farther they advanced, and in the afternoon they suddenly came upon a broad river, flowing swiftly just before them. On the other side of the water they could see the road of yellow brick running through a beautiful country, with green meadows dotted with bright flowers and all the road bordered with trees hanging full of delicious fruits. They were greatly pleased to see this delightful country before them.
+
+“How shall we cross the river?” asked Dorothy.
+
+“That is easily done,” replied the Scarecrow. “The Tin Woodman must build us a raft, so we can float to the other side.”
+
+So the Woodman took his axe and began to chop down small trees to make a raft, and while he was busy at this the Scarecrow found on the riverbank a tree full of fine fruit. This pleased Dorothy, who had eaten nothing but nuts all day, and she made a hearty meal of the ripe fruit.
+
+But it takes time to make a raft, even when one is as industrious and untiring as the Tin Woodman, and when night came the work was not done. So they found a cozy place under the trees where they slept well until the morning; and Dorothy dreamed of the Emerald City, and of the good Wizard Oz, who would soon send her back to her own home again. 
+
+## Chapter VIII : The Deadly Poppy Field
+
+ Our little party of travelers awakened the next morning refreshed and full of hope, and Dorothy breakfasted like a princess off peaches and plums from the trees beside the river. Behind them was the dark forest they had passed safely through, although they had suffered many discouragements; but before them was a lovely, sunny country that seemed to beckon them on to the Emerald City.
+
+To be sure, the broad river now cut them off from this beautiful land. But the raft was nearly done, and after the Tin Woodman had cut a few more logs and fastened them together with wooden pins, they were ready to start. Dorothy sat down in the middle of the raft and held Toto in her arms. When the Cowardly Lion stepped upon the raft it tipped badly, for he was big and heavy; but the Scarecrow and the Tin Woodman stood upon the other end to steady it, and they had long poles in their hands to push the raft through the water.
+
+They got along quite well at first, but when they reached the middle of the river the swift current swept the raft downstream, farther and farther away from the road of yellow brick. And the water grew so deep that the long poles would not touch the bottom.
+
+“This is bad,” said the Tin Woodman, “for if we cannot get to the land we shall be carried into the country of the Wicked Witch of the West, and she will enchant us and make us her slaves.”
+
+“And then I should get no brains,” said the Scarecrow.
+
+“And I should get no courage,” said the Cowardly Lion.
+
+“And I should get no heart,” said the Tin Woodman.
+
+“And I should never get back to Kansas,” said Dorothy.
+
+“We must certainly get to the Emerald City if we can,” the Scarecrow continued, and he pushed so hard on his long pole that it stuck fast in the mud at the bottom of the river. Then, before he could pull it out again—or let go—the raft was swept away, and the poor Scarecrow was left clinging to the pole in the middle of the river.
+
+“Good-bye!” he called after them, and they were very sorry to leave him. Indeed, the Tin Woodman began to cry, but fortunately remembered that he might rust, and so dried his tears on Dorothy’s apron.
+
+Of course this was a bad thing for the Scarecrow.
+
+“I am now worse off than when I first met Dorothy,” he thought. “Then, I was stuck on a pole in a cornfield, where I could make-believe scare the crows, at any rate. But surely there is no use for a Scarecrow stuck on a pole in the middle of a river. I am afraid I shall never have any brains, after all!”
+
+Down the stream the raft floated, and the poor Scarecrow was left far behind. Then the Lion said:
+
+“Something must be done to save us. I think I can swim to the shore and pull the raft after me, if you will only hold fast to the tip of my tail.”
+
+So he sprang into the water, and the Tin Woodman caught fast hold of his tail. Then the Lion began to swim with all his might toward the shore. It was hard work, although he was so big; but by and by they were drawn out of the current, and then Dorothy took the Tin Woodman’s long pole and helped push the raft to the land.
+
+They were all tired out when they reached the shore at last and stepped off upon the pretty green grass, and they also knew that the stream had carried them a long way past the road of yellow brick that led to the Emerald City.
+
+“What shall we do now?” asked the Tin Woodman, as the Lion lay down on the grass to let the sun dry him.
+
+“We must get back to the road, in some way,” said Dorothy.
+
+“The best plan will be to walk along the riverbank until we come to the road again,” remarked the Lion.
+
+So, when they were rested, Dorothy picked up her basket and they started along the grassy bank, to the road from which the river had carried them. It was a lovely country, with plenty of flowers and fruit trees and sunshine to cheer them, and had they not felt so sorry for the poor Scarecrow, they could have been very happy.
+
+They walked along as fast as they could, Dorothy only stopping once to pick a beautiful flower; and after a time the Tin Woodman cried out: “Look!”
+
+Then they all looked at the river and saw the Scarecrow perched upon his pole in the middle of the water, looking very lonely and sad.
+
+“What can we do to save him?” asked Dorothy.
+
+The Lion and the Woodman both shook their heads, for they did not know. So they sat down upon the bank and gazed wistfully at the Scarecrow until a Stork flew by, who, upon seeing them, stopped to rest at the water’s edge.
+
+“Who are you and where are you going?” asked the Stork.
+
+“I am Dorothy,” answered the girl, “and these are my friends, the Tin Woodman and the Cowardly Lion; and we are going to the Emerald City.”
+
+“This isn’t the road,” said the Stork, as she twisted her long neck and looked sharply at the queer party.
+
+“I know it,” returned Dorothy, “but we have lost the Scarecrow, and are wondering how we shall get him again.”
+
+“Where is he?” asked the Stork.
+
+“Over there in the river,” answered the little girl.
+
+“If he wasn’t so big and heavy I would get him for you,” remarked the Stork.
+
+“He isn’t heavy a bit,” said Dorothy eagerly, “for he is stuffed with straw; and if you will bring him back to us, we shall thank you ever and ever so much.”
+
+“Well, I’ll try,” said the Stork, “but if I find he is too heavy to carry I shall have to drop him in the river again.”
+
+So the big bird flew into the air and over the water till she came to where the Scarecrow was perched upon his pole. Then the Stork with her great claws grabbed the Scarecrow by the arm and carried him up into the air and back to the bank, where Dorothy and the Lion and the Tin Woodman and Toto were sitting.
+
+When the Scarecrow found himself among his friends again, he was so happy that he hugged them all, even the Lion and Toto; and as they walked along he sang “Tol-de-ri-de-oh!” at every step, he felt so gay.
+
+“I was afraid I should have to stay in the river forever,” he said, “but the kind Stork saved me, and if I ever get any brains I shall find the Stork again and do her some kindness in return.”
+
+“That’s all right,” said the Stork, who was flying along beside them. “I always like to help anyone in trouble. But I must go now, for my babies are waiting in the nest for me. I hope you will find the Emerald City and that Oz will help you.”
+
+“Thank you,” replied Dorothy, and then the kind Stork flew into the air and was soon out of sight.
+
+They walked along listening to the singing of the brightly colored birds and looking at the lovely flowers which now became so thick that the ground was carpeted with them. There were big yellow and white and blue and purple blossoms, besides great clusters of scarlet poppies, which were so brilliant in color they almost dazzled Dorothy’s eyes.
+
+“Aren’t they beautiful?” the girl asked, as she breathed in the spicy scent of the bright flowers.
+
+“I suppose so,” answered the Scarecrow. “When I have brains, I shall probably like them better.”
+
+“If I only had a heart, I should love them,” added the Tin Woodman.
+
+“I always did like flowers,” said the Lion. “They seem so helpless and frail. But there are none in the forest so bright as these.”
+
+They now came upon more and more of the big scarlet poppies, and fewer and fewer of the other flowers; and soon they found themselves in the midst of a great meadow of poppies. Now it is well known that when there are many of these flowers together their odor is so powerful that anyone who breathes it falls asleep, and if the sleeper is not carried away from the scent of the flowers, he sleeps on and on forever. But Dorothy did not know this, nor could she get away from the bright red flowers that were everywhere about; so presently her eyes grew heavy and she felt she must sit down to rest and to sleep.
+
+But the Tin Woodman would not let her do this.
+
+“We must hurry and get back to the road of yellow brick before dark,” he said; and the Scarecrow agreed with him. So they kept walking until Dorothy could stand no longer. Her eyes closed in spite of herself and she forgot where she was and fell among the poppies, fast asleep.
+
+“What shall we do?” asked the Tin Woodman.
+
+“If we leave her here she will die,” said the Lion. “The smell of the flowers is killing us all. I myself can scarcely keep my eyes open, and the dog is asleep already.”
+
+It was true; Toto had fallen down beside his little mistress. But the Scarecrow and the Tin Woodman, not being made of flesh, were not troubled by the scent of the flowers.
+
+“Run fast,” said the Scarecrow to the Lion, “and get out of this deadly flower bed as soon as you can. We will bring the little girl with us, but if you should fall asleep you are too big to be carried.”
+
+So the Lion aroused himself and bounded forward as fast as he could go. In a moment he was out of sight.
+
+“Let us make a chair with our hands and carry her,” said the Scarecrow. So they picked up Toto and put the dog in Dorothy’s lap, and then they made a chair with their hands for the seat and their arms for the arms and carried the sleeping girl between them through the flowers.
+
+On and on they walked, and it seemed that the great carpet of deadly flowers that surrounded them would never end. They followed the bend of the river, and at last came upon their friend the Lion, lying fast asleep among the poppies. The flowers had been too strong for the huge beast and he had given up at last, and fallen only a short distance from the end of the poppy bed, where the sweet grass spread in beautiful green fields before them.
+
+“We can do nothing for him,” said the Tin Woodman, sadly; “for he is much too heavy to lift. We must leave him here to sleep on forever, and perhaps he will dream that he has found courage at last.”
+
+“I’m sorry,” said the Scarecrow. “The Lion was a very good comrade for one so cowardly. But let us go on.”
+
+They carried the sleeping girl to a pretty spot beside the river, far enough from the poppy field to prevent her breathing any more of the poison of the flowers, and here they laid her gently on the soft grass and waited for the fresh breeze to waken her. 
+
+## Chapter IX : The Queen of the Field Mice
