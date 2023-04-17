@@ -2,7 +2,6 @@ import React from 'react'
 
 function PageNav({ chunks, handlePrevClick, isPrevDisabled, handlePageChange, activeChunkIndex, handleNextClick, isNextDisabled }) {
   return (
-    <>
       <div className="page-controller">
           <button onClick={handlePrevClick} disabled={isPrevDisabled}>
             Prev
@@ -18,8 +17,7 @@ function PageNav({ chunks, handlePrevClick, isPrevDisabled, handlePageChange, ac
             Next
           </button>
         </div>    
-    </>
   )
 }
 
-export default PageNav
+export default PageNav;
