@@ -2,6 +2,10 @@
 @tailwind components;
 @tailwind utilities; */
 
+:root {
+  --color-text: rgba(41, 41, 41, 1);
+}
+
 html {
   font-size: 18px;
   font-family: Arial, Helvetica, sans-serif;
@@ -9,24 +13,58 @@ html {
 
 /* Ereader main reading content */
 .content-container {
-  max-width: 700px;
+  max-width: 990px;
   margin: 0 auto;
 }
 
-.content-container h2 {
-  font-size: 2.8rem;
+h2 {
+  font-size: 1.602rem;
+  font-weight: 400;
+  margin-top: 2.37em;
+  margin-bottom: 0;
 }
 
-.content-container p {
+h2 + p {
+  margin-top: .85rem;
+}
+
+h3 {  
+  font-size: 1.324rem;
+}
+
+h4 {  
   font-size: 1.2rem;
-  line-height: 1.35;
+  font-weight: 400;
+}
+
+h5 {  
+  font-size: 1rem;
+  font-weight: 400;
+}
+
+p {
+  font-size: 1.11rem;
+  line-height: 2rem;
+  letter-spacing: -.003em;
+  margin: 2rem 0 0 .5rem;
+}
+
+img {
+  border-style: none;
+  display: block;
+  height: auto;
+  max-width: 85%;
+  margin: 56px auto 2rem;
+  background-color: var(--white);
 }
 /* === */
 
 /* Page controller i.e. next, prev, page selection buttons */
 .page-controller {
-  max-width: 700px;
-  margin: 0 auto;
+  max-width: 990px;
+  margin: 2rem auto;
+  display:flex;
+  justify-content: space-between;
 }
 
 .page-controller button {
@@ -35,8 +73,12 @@ html {
 /* === */
 
 .publication-info {
-  max-width: 700px;
+  max-width: 990px;
   margin: 0 auto;
+}
+
+.publication-info p {
+  margin-top: 1rem;
 }
 
 /* .reader-wrapper {
