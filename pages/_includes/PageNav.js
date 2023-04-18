@@ -7,7 +7,7 @@ function PageNav({ chunks, handlePrevClick, isPrevDisabled, handlePageChange, ac
             Prev
           </button>
           <select onChange={handlePageChange} value={activeChunkIndex}>
-            {chunks.map((chunk, index) => (
+            {chunks?.map((chunk, index) => (
               <option key={index} value={index}>
                 Page {index + 1}
               </option>
