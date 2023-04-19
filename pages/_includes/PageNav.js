@@ -2,13 +2,12 @@ import React from 'react'
 
 function PageNav({ chunks, handlePrevClick, isPrevDisabled, handlePageChange, activeChunkIndex, handleNextClick, isNextDisabled }) {
   return (
-    <>
       <div className="page-controller">
           <button onClick={handlePrevClick} disabled={isPrevDisabled}>
             Prev
           </button>
           <select onChange={handlePageChange} value={activeChunkIndex}>
-            {chunks.map((chunk, index) => (
+            {chunks?.map((chunk, index) => (
               <option key={index} value={index}>
                 Page {index + 1}
               </option>
@@ -18,8 +17,7 @@ function PageNav({ chunks, handlePrevClick, isPrevDisabled, handlePageChange, ac
             Next
           </button>
         </div>    
-    </>
   )
 }
 
-export default PageNav
+export default PageNav;
