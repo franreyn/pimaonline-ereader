@@ -96,7 +96,7 @@ export default function Publication({ matchingPub }) {
         <div className="content-container">
           <ReactMarkdown>{chunks[activeChunkIndex]}</ReactMarkdown>
         </div>
-        <PageNav 
+        {/* <PageNav 
           chunks={chunks}
           handlePrevClick={handlePrevClick} 
           isPrevDisabled={isPrevDisabled}
@@ -104,7 +104,7 @@ export default function Publication({ matchingPub }) {
           activeChunkIndex={activeChunkIndex}
           handleNextClick={handleNextClick}
           isNextDisabled={isNextDisabled}
-        />
+        /> */}
       </main>
     </div>
   )
