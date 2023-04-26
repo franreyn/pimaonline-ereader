@@ -1,6 +1,5 @@
 import React, { useState } from "react";
 import ReactMarkdown from "react-markdown";
-import PageNav from "../_includes/PageNav";
 import Sidebar from "../_includes/Sidebar";
 
 const url = "https://raw.githubusercontent.com/franreyn/pimaonline-ereader/main/public/cache/posts.json";
@@ -97,7 +96,7 @@ export default function Publication({ matchingPub }) {
         <div className="content-container">
           <ReactMarkdown>{chunks[activeChunkIndex]}</ReactMarkdown>
         </div>
-        <PageNav 
+        {/* <PageNav 
           chunks={chunks}
           handlePrevClick={handlePrevClick} 
           isPrevDisabled={isPrevDisabled}
@@ -105,7 +104,7 @@ export default function Publication({ matchingPub }) {
           activeChunkIndex={activeChunkIndex}
           handleNextClick={handleNextClick}
           isNextDisabled={isNextDisabled}
-        />
+        /> */}
       </main>
     </div>
   )
