@@ -3,7 +3,8 @@ import ReactMarkdown from "react-markdown";
 import PageNav from "../_includes/PageNav";
 import Sidebar from "../_includes/Sidebar";
 
-const url = "https://raw.githubusercontent.com/franreyn/pimaonline-ereader/main/public/cache/posts.json";
+// const url = "https://raw.githubusercontent.com/franreyn/pimaonline-ereader/main/public/cache/posts.json";
+const url = "http://localhost:3001/cache/posts.json"
 
 export const getStaticPaths = async () => {
   const response = await fetch(url);
@@ -11,31 +12,34 @@ export const getStaticPaths = async () => {
 
   return {
     paths: data.map(publication => ({
-      params: { slug: publication.slug.toString() }
+      params: { slug: `${publication.title}/${publication.slug}`  }
     })),
     fallback: false
   }
 }
 
-// Get data
 export const getStaticProps = async ({ params }) => {
   const response = await fetch(url);
   const data = await response.json();
 
+  console.log(data); // Check if data is being fetched correctly
   let lookingForSlug = params.slug;
   let matchingPub = data.find(obj => obj.slug === lookingForSlug);
 
+  console.log(matchingPub); // Check if matchingPub is being populated correctly
   return {
     props: { matchingPub }
   }
 };
 
-const lightMode = () => {
-
-};
   
 export default function Publication({ matchingPub }) {
+
+
   const { content, data } = matchingPub;
+
+  console.log(data)
+
   const { author1, author2, author3, date, subject, title } = data;
 
   const [] = useState();
