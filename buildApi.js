@@ -8,27 +8,44 @@ const getAll = dir => {
   // Read files at directory
   const directory = path.join(process.cwd(), dir);
   const fileNames = fs.readdirSync(directory);
-  // Sort the file names alphabetically
-  fileNames.sort();
-  // Get the content of the files as JSON
-  const content = fileNames.map((fileName, index) => {
-    const slug = fileName.replace(/\.md$/, "");
+
+  let content = [];
+  // Loop over files in the directory
+  fileNames.forEach(fileName => {
     const fullPath = path.join(directory, fileName);
-    const fileContents = fs.readFileSync(fullPath, "utf8");
-    const matterResult = matter(fileContents);
-    return {
-      id: index + 1,
-      slug, 
-      ...matterResult
-    };
+    const fileStat = fs.statSync(fullPath);
+    if (fileStat.isDirectory()) {
+      // If it's a directory, recurse
+      const subDirContent = getAll(path.join(dir, fileName));
+      content = content.concat(subDirContent);
+    } else if (fileStat.isFile() && path.extname(fileName) === ".md") {
+      // If it's a markdown file, read and parse it
+      const slug = fileName.replace(/\.md$/, "");
+      const fileContents = fs.readFileSync(fullPath);
+      const matterResult = matter(fileContents);
+      content.push({
+        slug,
+        ...matterResult.data,
+        content: matterResult.content,
+      });
+    }
   });
   // Return a big array of JSON
   return JSON.stringify(content);
 };
 
+
+
 const allPosts = getAll("content");
 
-const postFileContents = `${allPosts}`;
+const parsedPosts = JSON.parse(allPosts)
+
+const books = parsedPosts.map((chapter) => {
+  chapter = JSON.parse(chapter)
+  return chapter;
+}).flat();
+
+const postFileContents = JSON.stringify(books);
 
 // Create the cache folder if it doesn't exist
 try {
